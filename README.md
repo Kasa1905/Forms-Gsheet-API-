@@ -86,5 +86,5 @@ A fully functional, responsive, and secure form builder platform that enables us
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Kasa1905/Forms-Gsheet-API-.git
 cd <repository_directory>
